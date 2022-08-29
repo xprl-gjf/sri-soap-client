@@ -1,5 +1,5 @@
 import com.fasterxml.jackson.databind.ObjectMapper
-import ec.com.xprl.efacturaction.soap.client.EnvioComprobantesProxy
+import ec.com.xprl.efacturacion.soap.client.EnvioComprobantesProxy
 import java.io.File
 import java.net.URL
 

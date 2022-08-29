@@ -1,6 +1,6 @@
 # sri-soap-cli :ecuador:
 
-Cliente por los servicios de web SRI (Servicio de Rentas Internas) de Ecuador.
+Cliente JAVA por los servicios de web SRI (Servicio de Rentas Internas) de Ecuador.
 
 Incluye también una utilidad de línea de comandos por pruebas/depuración.
 

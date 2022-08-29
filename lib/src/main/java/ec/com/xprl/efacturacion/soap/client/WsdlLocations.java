@@ -1,4 +1,4 @@
-package ec.com.xprl.efacturaction.soap.client;
+package ec.com.xprl.efacturacion.soap.client;
 
 import java.net.MalformedURLException;
 import java.net.URL;
