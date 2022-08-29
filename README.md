@@ -1,3 +1,7 @@
+> **Note**
+> This repository has been superseded by [sri-efactura-core](https://github.com/xprl-gjf/sri-efactura-core) 
+>
+
 # sri-soap-cli :ecuador:
 
 Cliente JAVA por los servicios de web SRI (Servicio de Rentas Internas) de Ecuador.
